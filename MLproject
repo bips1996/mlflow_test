@@ -1,0 +1,9 @@
+name: tutorial
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      filename: str
+    command: "python main.py {filename}"

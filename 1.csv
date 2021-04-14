@@ -1,0 +1,62 @@
+Match Number	Date	Team1	Team2	TIME (IST)	VENUE	Start	End
+1	4/9/2021	Mumbai Indians	Royal Challengers Bangalore	7:30 PM	Chennai	4/9/2021 10:00:00	4/9/2021 10:15:00
+2	4/10/2021	Chennai Super Kings	Delhi Capitals	7:30 PM	Mumbai	4/10/2021 10:00:00	4/10/2021 10:15:00
+3	4/11/2021	Sunrisers Hyderabad	Kolkata Knight Riders	7:30 PM	Chennai	4/11/2021 10:00:00	4/11/2021 10:15:00
+4	4/12/2021	Rajasthan Royals	Punjab Kings	7:30 PM	Mumbai	4/12/2021 10:00:00	4/12/2021 10:15:00
+5	4/13/2021	Kolkata Knight Riders	Mumbai Indians	7:30 PM	Chennai	4/13/2021 10:00:00	4/13/2021 10:15:00
+6	4/14/2021	Sunrisers Hyderabad	Royal Challengers Bangalore	7:30 PM	Chennai	4/14/2021 10:00:00	4/14/2021 10:15:00
+7	4/15/2021	Rajasthan Royals	Delhi Capitals	7:30 PM	Mumbai	4/15/2021 10:00:00	4/15/2021 10:15:00
+8	4/16/2021	Punjab Kings	Chennai Super Kings	7:30 PM	Mumbai	4/16/2021 10:00:00	4/16/2021 10:15:00
+9	4/17/2021	Mumbai Indians	Sunrisers Hyderabad	7:30 PM	Chennai	4/17/2021 10:00:00	4/17/2021 10:15:00
+10	4/18/2021	Royal Challengers Bangalore	Kolkata Knight Riders	3:30 PM	Chennai	4/18/2021 10:00:00	4/18/2021 10:15:00
+11	4/18/2021	Delhi Capitals	Punjab Kings	7:30 PM	Mumbai	4/18/2021 10:00:00	4/18/2021 10:15:00
+12	4/19/2021	Chennai Super Kings	Rajasthan Royals	7:30 PM	Mumbai	4/19/2021 10:00:00	4/19/2021 10:15:00
+13	4/20/2021	Delhi Capitals	Mumbai Indians	7:30 PM	Chennai	4/20/2021 10:00:00	4/20/2021 10:15:00
+14	4/21/2021	Punjab Kings	Sunrisers Hyderabad	3:30 PM	Chennai	4/21/2021 10:00:00	4/21/2021 10:15:00
+15	4/21/2021	Kolkata Knight Riders	Chennai Super Kings	7:30 PM	Mumbai	4/21/2021 10:00:00	4/21/2021 10:15:00
+16	4/22/2021	Royal Challengers Bangalore	Rajasthan Royals	7:30 PM	Mumbai	4/22/2021 10:00:00	4/22/2021 10:15:00
+17	4/23/2021	Punjab Kings	Mumbai Indians	7:30 PM	Chennai	4/23/2021 10:00:00	4/23/2021 10:15:00
+18	4/24/2021	Rajasthan Royals	Kolkata Knight Riders	7:30 PM	Mumbai	4/24/2021 10:00:00	4/24/2021 10:15:00
+19	4/25/2021	Chennai Super Kings	Royal Challengers Bangalore	3:30 PM	Mumbai	4/25/2021 10:00:00	4/25/2021 10:15:00
+20	4/25/2021	Sunrisers Hyderabad	Delhi Capitals	7:30 PM	Chennai	4/25/2021 10:00:00	4/25/2021 10:15:00
+21	4/26/2021	Punjab Kings	Kolkata Knight Riders	7:30 PM	Ahmedabad	4/26/2021 10:00:00	4/26/2021 10:15:00
+22	4/27/2021	Delhi Capitals	Royal Challengers Bangalore	7:30 PM	Ahmedabad	4/27/2021 10:00:00	4/27/2021 10:15:00
+23	4/28/2021	Chennai Super Kings	Sunrisers Hyderabad	7:30 PM	Delhi	4/28/2021 10:00:00	4/28/2021 10:15:00
+24	4/29/2021	Mumbai Indians	Rajasthan Royals	3:30 PM	Delhi	4/29/2021 10:00:00	4/29/2021 10:15:00
+25	4/29/2021	Delhi Capitals	Kolkata Knight Riders	7:30 PM	Ahmedabad	4/29/2021 10:00:00	4/29/2021 10:15:00
+26	4/30/2021	Punjab Kings	Royal Challengers Bangalore	7:30 PM	Ahmedabad	4/30/2021 10:00:00	4/30/2021 10:15:00
+27	5/1/2021	Mumbai Indians	Chennai Super Kings	7:30 PM	Delhi	5/1/2021 10:00:00	5/1/2021 10:15:00
+28	5/2/2021	Rajasthan Royals	Sunrisers Hyderabad	3:30 PM	Delhi	5/2/2021 10:00:00	5/2/2021 10:15:00
+29	5/2/2021	Punjab Kings	Delhi Capitals	7:30 PM	Ahmedabad	5/2/2021 10:00:00	5/2/2021 10:15:00
+30	5/3/2021	Kolkata Knight Riders	Royal Challengers Bangalore	7:30 PM	Ahmedabad	5/3/2021 10:00:00	5/3/2021 10:15:00
+31	5/4/2021	Sunrisers Hyderabad	Mumbai Indians	7:30 PM	Delhi	5/4/2021 10:00:00	5/4/2021 10:15:00
+32	5/5/2021	Rajasthan Royals	Chennai Super Kings	7:30 PM	Delhi	5/5/2021 10:00:00	5/5/2021 10:15:00
+33	5/6/2021	Royal Challengers Bangalore	Punjab Kings	7:30 PM	Ahmedabad	5/6/2021 10:00:00	5/6/2021 10:15:00
+34	5/7/2021	Sunrisers Hyderabad	Chennai Super Kings	7:30 PM	Delhi	5/7/2021 10:00:00	5/7/2021 10:15:00
+35	5/8/2021	Kolkata Knight Riders	Delhi Capitals	3:30 PM	Ahmedabad	5/8/2021 10:00:00	5/8/2021 10:15:00
+36	5/8/2021	Rajasthan Royals	Mumbai Indians	7:30 PM	Delhi	5/8/2021 10:00:00	5/8/2021 10:15:00
+37	5/9/2021	Chennai Super Kings	Punjab Kings	3:30 PM	Bengaluru	5/9/2021 10:00:00	5/9/2021 10:15:00
+38	5/9/2021	Royal Challengers Bangalore	Sunrisers Hyderabad	7:30 PM	Kolkata	5/9/2021 10:00:00	5/9/2021 10:15:00
+39	5/10/2021	Mumbai Indians	Kolkata Knight Riders	7:30 PM	Bengaluru	5/10/2021 10:00:00	5/10/2021 10:15:00
+40	5/11/2021	Delhi Capitals	Rajasthan Royals	7:30 PM	Kolkata	5/11/2021 10:00:00	5/11/2021 10:15:00
+41	5/12/2021	Chennai Super Kings	Kolkata Knight Riders	7:30 PM	Bengaluru	5/12/2021 10:00:00	5/12/2021 10:15:00
+42	5/13/2021	Mumbai Indians	Punjab Kings	3:30 PM	Bengaluru	5/13/2021 10:00:00	5/13/2021 10:15:00
+43	5/13/2021	Sunrisers Hyderabad	Rajasthan Royals	7:30 PM	Kolkata	5/13/2021 10:00:00	5/13/2021 10:15:00
+44	5/14/2021	Royal Challengers Bangalore	Delhi Capitals	7:30 PM	Kolkata	5/14/2021 10:00:00	5/14/2021 10:15:00
+45	5/15/2021	Kolkata Knight Riders	Punjab Kings	7:30 PM	Bengaluru	5/15/2021 10:00:00	5/15/2021 10:15:00
+46	5/16/2021	Rajasthan Royals	Royal Challengers Bangalore	3:30 PM	Kolkata	5/16/2021 10:00:00	5/16/2021 10:15:00
+47	5/16/2021	Chennai Super Kings	Mumbai Indians	7:30 PM	Bengaluru	5/16/2021 10:00:00	5/16/2021 10:15:00
+48	5/17/2021	Delhi Capitals	Sunrisers Hyderabad	7:30 PM	Kolkata	5/17/2021 10:00:00	5/17/2021 10:15:00
+49	5/18/2021	Kolkata Knight Riders	Rajasthan Royals	3:30 PM	Bengaluru	5/18/2021 10:00:00	5/18/2021 10:15:00
+50	5/19/2021	Sunrisers Hyderabad	Punjab Kings	3:30 PM	Bengaluru	5/19/2021 10:00:00	5/19/2021 10:15:00
+51	5/20/2021	Royal Challengers Bangalore	Mumbai Indians	7:30 PM	Kolkata	5/20/2021 10:00:00	5/20/2021 10:15:00
+52	5/21/2021	Kolkata Knight Riders	Sunrisers Hyderabad	3:30 PM	Bengaluru	5/21/2021 10:00:00	5/21/2021 10:15:00
+53	5/21/2021	Delhi Capitals	Chennai Super Kings	7:30 PM	Kolkata	5/21/2021 10:00:00	5/21/2021 10:15:00
+54	5/22/2021	Punjab Kings	Rajasthan Royals	7:30 PM	Bengaluru	5/22/2021 10:00:00	5/22/2021 10:15:00
+55	5/23/2021	Mumbai Indians	Delhi Capitals	3:30 PM	Kolkata	5/23/2021 10:00:00	5/23/2021 10:15:00
+56	5/23/2021	Royal Challengers Bangalore	Chennai Super Kings	7:30 PM	Kolkata	5/23/2021 10:00:00	5/23/2021 10:15:00
+57	5/25/2021	QUALIFIER 1		7:30 PM	Ahmedabad	5/25/2021 10:00:00	5/25/2021 10:15:00
+58	5/26/2021	ELIMINATOR		7:30 PM	Ahmedabad	5/26/2021 10:00:00	5/26/2021 10:15:00
+59	5/28/2021	QUALIFIER 2		7:30 PM	Ahmedabad	5/28/2021 10:00:00	5/28/2021 10:15:00
+60	5/30/2021	FINAL		7:30 PM	Ahmedabad	5/30/2021 10:00:00	5/30/2021 10:15:00
+
